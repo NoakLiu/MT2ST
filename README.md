@@ -1,7 +1,3 @@
-# MT2ST
-
-News 5/17: MT2ST has been accepted to ACL 2025 Workshop MAGMaR!!!
-
 In this project, we developed a framework "MT2ST" for embedding training acceleration in Natural Language Processing.
 
 execute `!git clone https://github.com/stanfordnlp/GloVe.git` to download GloVe.
